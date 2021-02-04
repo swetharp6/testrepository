@@ -1,1 +1,2 @@
 this is the first day of training
+this is a new line added to this file
